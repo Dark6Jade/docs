@@ -1,5 +1,5 @@
 ---
-title: '{% data variables.product.product_name %}{% ifversion fpt or ghec%}.com{% endif %} Help Documentation'
+title: '{% data variables.product.github %}{% ifversion fpt or ghec%}.com{% endif %} Help Documentation'
 featuredLinks:
   gettingStarted:
     - /get-started/getting-started-with-git/set-up-git
@@ -106,6 +106,7 @@ childGroups:
       - copilot
       - copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot
       - copilot/using-github-copilot/prompt-engineering-for-github-copilot
+      - copilot/example-prompts-for-github-copilot-chat
       - copilot/using-github-copilot/asking-github-copilot-questions-in-github
       - copilot/using-github-copilot/guides-on-using-github-copilot/refactoring-code-with-github-copilot
   - name: CI/CD and DevOps
